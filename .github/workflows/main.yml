@@ -1,5 +1,5 @@
 name: Exemplo Output
-run-name: Exemplo workflow para inputm executado por ${{ github.actor }}
+run-name: Exemplo workflow para output executado por ${{ github.actor }}
 on:
     workflow_dispatch:
 jobs:
